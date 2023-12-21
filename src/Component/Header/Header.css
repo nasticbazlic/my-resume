@@ -1,0 +1,30 @@
+@media screen and (max-width: 767px) {
+	header {
+		height: 54px;
+		display: flex;
+		justify-content: center;
+	}
+}
+
+@media screen and (max-width: 575px) {
+	header {
+		height: 40px;
+	}
+
+	.css-1d94a3c-MuiTypography-root {
+		font-size: 1em !important;
+	}
+
+	.header__info {
+		font-size: 14px;
+	}
+}
+
+@media screen and (max-width: 375px) {
+  .css-1d94a3c-MuiTypography-root {
+		font-size: 0.85em !important;
+	}
+}
+
+
+
