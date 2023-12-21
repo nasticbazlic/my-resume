@@ -3,6 +3,7 @@ import Project2 from '../../assets/images/project2.jpg';
 import Project3 from '../../assets/images/project3.jpg';
 import Project4 from '../../assets/images/project4.jpg';
 import Project5 from '../../assets/images/project5.jpg';
+import Project6 from '../../assets/images/project6.jpg';
 
 import './Projects.css';
 
@@ -14,6 +15,7 @@ const Projects = () => {
     {title: 'Team', link: 'https://nasticbazlic.github.io/my-team-project', img: Project3 },
     {title: 'Marico', link: 'https://nasticbazlic.github.io/my-marico-project', img: Project4 },
     {title: 'Exchange rates', link: 'https://nasticbazlic.github.io/my-exchange-rates', img: Project5 },
+    {title: 'Atlant', link: 'https://nasticbazlic.github.io/my-atlant-project', img: Project6 },
   ]
 
   return (
