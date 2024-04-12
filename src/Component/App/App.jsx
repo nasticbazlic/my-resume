@@ -13,7 +13,7 @@ function App() {
     <Header />
     <div className='representation'>
       <section className='representation__content'>
-        <h1>TRAINEE/JUNIOR <br /> FRONT END DEVELOPER</h1>
+        <h1>JUNIOR <br /> FRONT END DEVELOPER</h1>
         <img src={MyPhotoProfil} alt='MyPhotoProfil' />
       </section>
     </div>

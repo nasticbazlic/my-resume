@@ -17,6 +17,7 @@
 .representation__content h1 {
 	font-size: 70px;
 	font-weight: 700;
+  text-align: center;
 }
 
 .representation__content img {
